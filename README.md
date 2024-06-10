@@ -5,8 +5,8 @@ Sistem Pemesanan Tiket Pesawat
 Fitur Utama:
 
 Pemesanan Tiket:
-*Pilih rute penerbangan (asal dan tujuan)
-*Tentukan tanggal keberangkatan
+Pilih rute penerbangan (asal dan tujuan)
+Tentukan tanggal keberangkatan
 Pilih jumlah penumpang (dewasa dan anak)
 Pilih kelas penerbangan (Economy, Premium, Business, First Class)
 Pilih maskapai penerbangan (Lion Air, Batik Air, Citilink)

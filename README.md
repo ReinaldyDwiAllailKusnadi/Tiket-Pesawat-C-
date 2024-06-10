@@ -1,6 +1,9 @@
 # Tiket-Pesawat-C-
 Membuat aplikasi tiket pesawat menggunakan c++
 
+!https://github.com/ReinaldyDwiAllailKusnadi/Tiket-Pesawat-C-/blob/main/Capture.PNG
+
+
 Sistem Pemesanan Tiket Pesawat
 Fitur Utama:
 
